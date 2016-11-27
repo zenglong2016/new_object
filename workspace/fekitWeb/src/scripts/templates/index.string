@@ -1,0 +1,70 @@
+<div class="m-container">
+<header>
+	<div class="title"><span class="iconfont" id="camera">&#xe651;</span>网易严选</div>
+</header>
+
+<nav>
+	<ul class="nav-stores">
+		<li class="active">推荐</li>
+		<li>居家</li>
+		<li>餐厨</li>
+		<li>配件</li>
+		<li>服装</li>
+	</ul>
+</nav>
+<section id="main-scroll">
+<div>
+	<div class="shoufa">
+		新品首发 >
+	</div>
+	<ul>
+		<li>
+			<img src="images/img1.jpg" />
+			<b>江南皮革倒闭</b>
+			<b class="money">$10</b>
+		</li>
+		<li>
+			<img src="images/img2.png" />
+			<b>江南皮革倒闭</b>
+			<b class="money">$10</b>
+		</li>
+		<li>
+			<img src="images/img3.jpg" />
+			<b>江南皮革倒闭</b>
+			<b class="money">$10</b>
+		</li>
+		<li>
+			<img src="images/img4.jpg" />
+			<b>江南皮革倒闭</b>
+			<b class="money">$10</b>
+		</li>
+	</ul>
+	<div class="shoufa">
+		人气推荐 >
+	</div>
+</div>
+</section>
+<footer>
+	<ul class="iconfont">
+		<li class="active">
+			<i>&#xe730;</i>
+			<b>首页</b>
+		</li>
+		<li>
+			<i>&#xe619;</i>
+			<b>专题</b>
+		</li>
+		<li>
+			<i>&#xe682;</i>
+			<b>分类</b>
+		</li>
+		<li>
+			<i>&#xe611;</i>
+			<b>购物车</b>
+		</li>
+		<li>
+			<i>&#xe600;</i>
+			<b>个人</b>
+		</li>
+	</ul>
+</footer>
